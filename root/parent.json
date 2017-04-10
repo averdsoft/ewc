@@ -1,0 +1,32 @@
+{
+	"parent_age" : "0",
+
+	"global_msg_age" : "0",
+	"global_msg" : "Hello World",
+
+	"win_msg_age" : "0",
+	"win_msg" : [
+		{
+			"about_msg" : "New Wallpaper, bro!"
+		}
+	],
+
+	"data" : [
+		{
+			"category" : "new_wall",
+			"path" : ""
+		},
+		{
+			"category" : "old_wall",
+			"path" : ""
+		},
+		{
+			"category" : "general_wall",
+			"path" : ""
+		},
+		{
+			"category" : "black_wall",
+			"path" : ""
+		}
+	]
+}
