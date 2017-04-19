@@ -13,18 +13,22 @@
 
 	"data" : [
 		{
+			"age" : "0",
 			"category" : "new_wall",
 			"path" : ""
 		},
 		{
+			"age" : "0",
 			"category" : "old_wall",
 			"path" : ""
 		},
 		{
-			"category" : "general_wall",
-			"path" : ""
+			"age" : "0",
+			"category" : "default_wall",
+			"path" : "https://raw.githubusercontent.com/averdsoft/ewc/master/root/files/default/default.json"
 		},
 		{
+			"age" : "0",
 			"category" : "black_wall",
 			"path" : ""
 		}
